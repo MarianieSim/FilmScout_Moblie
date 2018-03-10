@@ -1,0 +1,1 @@
+<resources><string name="hello">Hello World, Click Me!</string><string name="app_name">FilmScout</string><string-array name="gen_arrays"><item>Pick A Genre </item><item>Adventure </item><item>Comedy </item><item>Drama </item><item>Romance </item><item>Horror </item></string-array></resources>
